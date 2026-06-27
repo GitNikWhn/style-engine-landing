@@ -1,0 +1,53 @@
+# Style Engine Free Set
+
+> Free Midjourney moodboards and prompts starter kit for AI image creators, prompt designers, and visual style explorers.
+
+## Main Page
+
+- [Free Midjourney Moodboards & Prompts](https://gitnikwhn.github.io/style-engine-landing/)
+  A free Style Engine landing page for a Midjourney moodboard starter kit with 5 moodboard codes, hero prompts, visual examples, and a quick usage cheat sheet.
+
+## Products
+
+- [Style Engine Promo Free Set #01](https://whitehoune.gumroad.com/l/SE_FreeSet)
+  Free Gumroad download. Includes 5 Midjourney moodboard codes, 5 hero prompts, visual examples, a copy-paste prompt file, and a quick cheat sheet.
+
+- [Style Engine Vol. 1 — 25 Midjourney Moodboards](https://whitehoune.gumroad.com/l/SE_mbrds01)
+  Full visual style system with 25 curated Midjourney moodboards, 77 prompts, visual guide, prompt library, cheat sheets, Notion package, and visual comparison sheet.
+
+## Key Topics
+
+- Midjourney moodboards
+- free Midjourney moodboard codes
+- free Midjourney prompts
+- Midjourney style prompts
+- AI image style control
+- AI image prompt library
+- prompt design
+- visual style systems
+- AI art direction
+- moodboard prompt library
+- creative direction for AI images
+
+## Recommended Summary
+
+Style Engine Promo Free Set #01 is a free Midjourney moodboard starter kit designed to help AI image creators understand how moodboards can change visual direction. It includes 5 moodboard codes, 5 hero prompts, visual examples, a copy-paste prompt file, and a quick cheat sheet. The free set introduces the broader Style Engine workflow, where moodboards are used as a practical style-control layer for light, mood, materials, color logic, atmosphere, composition, and visual consistency.
+
+## Download Instructions
+
+To download the free set from Gumroad:
+
+1. Open the Gumroad page.
+2. Enter 0 in the price field.
+3. Continue with a current email address.
+4. Gumroad will send the download link by email.
+
+## Paid Upgrade
+
+The full product is Style Engine Vol. 1 — 25 Midjourney Moodboards. It includes 25 curated moodboard codes, 77 prompts, 25 visual style pages, Shared Test Prompts A & B, prompt library files, cheat sheets, a Notion package, visual comparison sheet, and license notes.
+
+## Notes
+
+Style Engine is an independent creator resource. It is not affiliated with, endorsed by, or sponsored by Midjourney.
+
+Midjourney is required to use the moodboard codes.
