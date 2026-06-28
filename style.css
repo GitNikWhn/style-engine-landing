@@ -85,13 +85,13 @@ h3 {
 h1 {
   max-width: 760px;
   font-size: clamp(3.2rem, 7vw, 6.9rem);
-  font-weight: 850;
+  font-weight: 830;
 }
 
 h2 {
   max-width: 780px;
   font-size: clamp(2rem, 4.2vw, 4.1rem);
-  font-weight: 820;
+  font-weight: 800;
 }
 
 h3 {
